@@ -1,0 +1,15 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.fontSize": 15,
+    "editor.hover.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.shell.osx": "zsh",
+    "workbench.colorCustomizations": {
+    "activityBar.background": "#000000",
+    "editor.background": "#000000"
+                                     }
+}
