@@ -11,5 +11,10 @@
     "workbench.colorCustomizations": {
     "activityBar.background": "#000000",
     "editor.background": "#000000"
-                                     }
+                                     },
+    
+    // para ver los tpl bien
+    "files.associations": {
+        "*.tpl": "html"
+        }
 }
